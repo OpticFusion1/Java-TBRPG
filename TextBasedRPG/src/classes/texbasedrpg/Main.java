@@ -85,7 +85,7 @@ public class Main {
 		}
 		
 		else if(option > 6) {
-			System.out.println("Enter one of the given numbers idiot.");
+			System.out.println("Enter one of the given numbers");
 		}
 		}
 	}
